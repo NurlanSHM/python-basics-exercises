@@ -1,6 +1,5 @@
 # 4.1 - What is a String?
-# Solutions to review exercies
-
+# Solutions to review exercises
 
 # Exercise 1
 print('There are "double quotes" in this string.')
